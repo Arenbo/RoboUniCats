@@ -1,7 +1,7 @@
 scilla_version 0
 (*Shards is an utility token for RoboUniCats MMORPG Universe*)
 (*https://shards.robounicats.com/*)
-(*SRDs have a maximum total supply of 300,000 tokens.*)
+(*Shards have a maximum total supply of 300,000 tokens.*)
 (*These 300,000 tokens will be allocated in the following way:*)
 (*- Initial supply is 160,000 tokens (140,000 goes to Liquidity Pool, 20,000 goes to Dev Team).*)
 (*- Other 140,000 tokens will be minted as reward for active players and Liquidity Providers*)
